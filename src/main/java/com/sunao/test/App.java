@@ -1,7 +1,7 @@
 package com.sunao.test;
 
 /**
- * Hello world!
+ * Hello world! update
  *
  */
 public class App 
